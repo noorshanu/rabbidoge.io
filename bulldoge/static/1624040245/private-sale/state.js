@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fbulldoge\u002Fstatic\u002F1624040245",layout:"default",error:a,serverRendered:false,routePath:"\u002Fprivate-sale",config:{_app:{basePath:"\u002F",assetsPath:"\u002Fbulldoge\u002F",cdnURL:a}}}}(null));
